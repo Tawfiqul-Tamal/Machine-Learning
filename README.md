@@ -64,14 +64,14 @@ Machine-Learning/
 | _Project Name_ | _Brief description_ | _Tools/Libraries_ |
 | _Project Name_ | _Brief description_ | _Tools/Libraries_ |
  
-> *(Update this table as you add new projects)*
+
  
 ---
  
 ## 📬 Contact
  
 **Md. Tawfiqul Islam Tamal**
-📧 Feel free to connect via [GitHub](https://github.com/Tawfiqul-Tamal) or [LinkedIn](#)
+📧 Feel free to connect via [GitHub](https://github.com/Tawfiqul-Tamal) or [LinkedIn](www.linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a)
  
 ---
  
