@@ -71,8 +71,7 @@ Machine-Learning/
 ## 📬 Contact
  
 **Md. Tawfiqul Islam Tamal**
-📧 Feel free to connect via [GitHub](https://github.com/Tawfiqul-Tamal) or [LinkedIn](www.linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a)
- 
+📧 Feel free to connect via [GitHub](https://github.com/Tawfiqul-Tamal) or [LinkedIn](https://www.linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a)
 ---
  
 <div align="center">
