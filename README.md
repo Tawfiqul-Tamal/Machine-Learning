@@ -19,21 +19,7 @@ This repository is a curated collection of my **Machine Learning projects**, ran
  
 ---
  
-## 🗂️ Repository Structure
- 
-Machine-Learning/
-│
-├── Project-1/              # Short project description
-│   ├── notebook.ipynb
-│   ├── dataset/
-│   └── README.md
-│
-├── Project-2/
-│   └── ...
-│
-└── README.md
- 
----
+
  
 ## 🧠 Key Areas Covered
  
