@@ -1,0 +1,101 @@
+student_id,name,dept,gender,is_active,cgpa,attendance,phone,fee,semester
+S-001,Nusrat1,bba,Female,no,3.35,-,01727418-343962,-,
+S-002,Mina4,BBA,female,0,3.4,0.56,+880 171 7022674,,Fall 2023
+S-003,Ali5,cse,male,N,3.05,29,+880 171 4905582,2.5 lakh,
+S-004,Rima2,EEE,f,no,3.21,,880 1698458 584714,25k,
+S-005,Mina2,civil,f,suspended,3.55,0.95,880 1820214 774079,"25,000",fall 2023
+S-006,Tanvir2,pharmacy,m,inactive,2.5,6,01724716857,2.5 lakh,Spring 2024
+S-007,Leena4,pharmacy,m,1,3.45/4.00,0.57,+880 171 8612220,N/A,Fall2023
+S-008,Hasan1,civil,m,suspended,1.88,41%,01775579548,"25,000",spring2024
+S-009,Sabbir1,Pharmacy,F,enrolled,3.15,0.84,880 1842479 642717,25000,Fall2023
+S-010,Ayesha1,EEE,M,0,1.52,N/A,+880 171 2188789,-,Spring 2024
+S-011,Imran5,C.S.E,female,no,1.98,0.93,01797705310,"25,000",Fall2023
+S-012,Imran5,Pharmacy,Male,TRUE,3.69,,01664121-153045,"25,000",Spring 2024
+S-013,Zara4,BBA,male,Y,3.45/4.00,0.96,01784593961,N/A,
+S-014,Mina1,EEE,M,Y,3.63,0.93,01741568532,2.5 lakh,
+S-015,Kabir5,pharmacy,f,true,2.1,0.54,01853062-751332,N/A,fall 2023
+S-016,Tanvir3,cse,Female,false,2.86,0.85,,"25,000",fall 2023
+S-017,Fatima5,BBA,f,no,2.76,0.52,880 1750129 269430,N/A,
+S-018,Sophia5,CSE,F,N,1.87,,+880 171 8210624,25k,Fall 2023
+S-019,Rima2,civil,Female,active,3.71,0.61,01625784-288073,25k,Fall2023
+S-020,Nusrat4,CSE,female,no,2.37,0.67,,25k,Fall 2023
+S-021,Nusrat3,C.S.E,m,Y,3.32,0.66,01841408-101773,25k,Spring 2024
+S-022,Sabbir3,Civil,f,active,2.25,53%,880 1911164 415568,N/A,Fall 2023
+S-023,Fatima3,BBA,male,enrolled,2.66,0.60,01657246-397571,-,fall 2023
+S-024,Ayesha2,C.S.E,M,Y,3.62,,01714729-853240,"25,000",
+S-025,Rahim1,eee,Female,yes,2.66,59,,2.5 lakh,spring2024
+S-026,Ali2,Pharmacy,female,true,2.19,0.65,01788869-435239,2.5 lakh,
+S-027,Tanvir2,cse,male,TRUE,1.66,97%,880 1797211 413118,,Spring 2024
+S-028,Mina5,Civil,Female,FALSE,1.57,0.58,01793517915,25000,
+S-029,Sophia2,Pharmacy,Male,Y,2.64,0.55,01773123515,,
+S-030,Karima1,BBA,Female,suspended,,0.94,01744392446,N/A,Fall 2023
+S-031,Fatima5,civil,male,TRUE,2.98,0.57,+880 171 9937982,25000,spring2024
+S-032,Hassan1,eee,female,N,3.73,0.89,01866280-587455,,Fall 2023
+S-033,Jamal4,BBA,female,0,1.57,0.88,01904183-110644,-,Spring 2024
+S-034,Zara5,BBA,female,active,1.54,0.85,880 1797239 836996,25k,fall 2023
+S-035,Jamal2,cse,Female,false,3.41,0.83,+880 171 4256752,"25,000",fall 2023
+S-036,Rahim5,C.S.E,m,Y,3.24,0.80,880 1639725 364742,25000,Fall 2023
+S-037,Karim4,cse,M,yes,2.26,0.64,880 1768687 717113,25k,spring2024
+S-038,Leena1,Civil,F,enrolled,3.15,57,+880 171 1547605,-,Spring 2024
+S-039,Sabbir2,bba,Female,TRUE,1.87,0.86,880 1772220 833723,25k,spring2024
+S-040,Mina4,Pharmacy,F,0,,86,01623665-901909,2.5 lakh,spring2024
+S-041,Ali3,C.S.E,male,active,2.68,0.81,+880 171 1615675,25k,fall 2023
+S-042,Nusrat4,pharmacy,M,active,1.64,34%,01783715012,-,spring2024
+S-043,Ayesha2,bba,M,1,3.6,0.68,880 1860368 355570,N/A,Fall2023
+S-044,Karim2,Civil,Male,suspended,,0.50,,2.5 lakh,fall 2023
+S-045,Hassan5,pharmacy,male,FALSE,3.95,0.80,01815205-795928,N/A,spring2024
+S-046,Hassan1,Pharmacy,F,1,3.45/4.00,100,+880 171 7668663,,
+S-047,Mina4,EEE,female,suspended,2.09,12,01795060193,25k,Fall 2023
+S-048,Fatima3,EEE,male,yes,3.2,0.81,+880 171 8736811,-,Fall 2023
+S-049,Ali3,civil,Male,N,2.97,0.74,,25k,
+S-050,Fatima1,civil,male,true,,0.68,01797506-329642,-,Fall 2023
+S-051,Karima3,Pharmacy,M,0,3.77,0.73,880 1747515 964749,,fall 2023
+S-052,Hassan1,Pharmacy,F,yes,3.19,50%,+880 171 3073474,N/A,Spring 2024
+S-053,Rima1,civil,Female,FALSE,,59%,+880 171 3345069,2.5 lakh,Fall 2023
+S-054,Nusrat2,pharmacy,Male,TRUE,3.36,0.56,880 1807053 327823,2.5 lakh,Fall2023
+S-055,Rima1,civil,f,1,1.65,27%,,"25,000",Fall 2023
+S-056,Mina2,Civil,Female,suspended,1.87,N/A,01729419691,"25,000",Fall 2023
+S-057,Rima2,Civil,f,Y,3.35,0.56,880 1886179 416282,-,Fall 2023
+S-058,Karima4,eee,male,active,2.61,79,,25k,Spring 2024
+S-059,Hasan5,eee,F,enrolled,3.13,0.71,+880 171 2595275,-,fall 2023
+S-060,Rima2,civil,female,N,,7%,+880 171 6530541,,
+S-061,Sophia1,bba,m,false,1.89,35%,,N/A,
+S-062,Mina1,Civil,m,Y,2.27,N/A,01729226889,25000,
+S-063,Hasan2,eee,male,FALSE,3.3,20,880 1755449 564637,2.5 lakh,spring2024
+S-064,Ali4,bba,Female,enrolled,1.78,0.88,01616819-314353,,fall 2023
+S-065,Fatima3,cse,M,FALSE,2.45,94%,,2.5 lakh,spring2024
+S-066,Karim4,bba,F,TRUE,,0.55,01768614462,2.5 lakh,fall 2023
+S-067,Hassan2,EEE,Male,N,2.77,0.65,01689567-368402,,
+S-068,Sabbir2,civil,female,FALSE,2.62,0.90,+880 171 2145653,,fall 2023
+S-069,Kabir1,EEE,F,true,3.45/4.00,76%,,-,Fall2023
+S-070,Hassan5,Pharmacy,Male,Y,3.59,N/A,,N/A,spring2024
+S-071,Sadia3,EEE,m,TRUE,2.99,86,,-,Fall2023
+S-072,Rima3,civil,male,yes,2.27,0.97,01780651318,25k,fall 2023
+S-073,Sadia2,EEE,female,no,1.69,0.52,01789350-903531,"25,000",
+S-074,Leena2,Pharmacy,M,TRUE,3.92,0.80,+880 171 8391997,,Spring 2024
+S-075,Hasan5,eee,Male,suspended,3.68,,01774503785,25k,Fall 2023
+S-076,Sadia3,Pharmacy,Male,suspended,2.06,-,01717148018,25k,Fall2023
+S-077,Rahim3,cse,f,enrolled,3.45/4.00,0.89,01654326-119927,N/A,
+S-078,Leena5,eee,F,enrolled,1.62,63,01893835-117233,25k,Spring 2024
+S-079,Rahim5,EEE,Female,0,1.71,N/A,880 1903324 121322,,Spring 2024
+S-080,Karima4,EEE,m,inactive,,0.97,01682734-146489,,
+S-081,Ali4,civil,Male,enrolled,3.86,,+880 171 4346548,N/A,Spring 2024
+S-082,Mina4,bba,M,enrolled,3.66,,880 1805737 558176,-,Spring 2024
+S-083,Karim3,C.S.E,female,inactive,2.8,0.84,+880 171 2343333,25k,Spring 2024
+S-084,Leena4,C.S.E,female,false,3.78,85%,01825760-480959,,spring2024
+S-085,Ali1,C.S.E,F,no,2.46,0.98,+880 171 7156398,"25,000",Fall 2023
+S-086,Rahim2,Pharmacy,male,1,3.26,0.58,+880 171 8467726,-,fall 2023
+S-087,Sabbir5,pharmacy,m,true,3.82,25,,N/A,fall 2023
+S-088,Ali5,C.S.E,F,N,3.3,40,01651672-571832,,spring2024
+S-089,Kabir2,C.S.E,male,1,1.81,0.83,01654134-362778,-,fall 2023
+S-090,Leena5,cse,Male,0,3.15,0.51,,2.5 lakh,spring2024
+S-091,Rahim4,civil,m,active,3.51,56,01866676-587002,25k,
+S-092,Hassan3,eee,Male,enrolled,2.3,37,+880 171 3679315,"25,000",Fall2023
+S-093,Zara5,Pharmacy,female,true,2.48,36,01859512-399628,25k,
+S-094,Rima4,EEE,M,TRUE,,0.85,+880 171 2622046,N/A,fall 2023
+S-095,Tanvir2,Civil,male,1,,,,"25,000",fall 2023
+S-096,Leena3,C.S.E,male,0,2.34,0.73,880 1626759 725905,25k,
+S-097,Kabir5,BBA,M,0,3.3,0.94,01712814-119857,2.5 lakh,
+S-098,Imran4,pharmacy,female,suspended,3.26,0.61,880 1751390 739711,"25,000",Fall2023
+S-099,Jamal5,bba,Female,true,3.23,0.68,01897577-498138,25k,Fall 2023
+S-100,Fatima1,EEE,female,active,2.01,78,01738241-354235,25000,Fall 2023
